@@ -2,3 +2,6 @@ I am Subbiah Karthick S, an aspiring Computer Science Engineer with strong skill
 I am passionate about solving real-world problems through innovative and user-focused solutions.
 I have developed multiple projects including an AI-powered study planner, budgeting assistant, and a non-academic credit calculator, which reflect my ability to apply technical knowledge to practical scenarios.
 I am a disciplined and consistent learner with good problem-solving, logical thinking, and time management skills. I aim to build a strong career in the IT industry by continuously improving my technical expertise and contributing effectively to organizational growth.
+
+I am particularly interested in automation testing and continuously working to strengthen my practical skills in Selenium and real-time application development.
+I believe in consistency and disciplined learning, and I am committed to adapting quickly to new technologies and contributing effectively in a professional environment.
