@@ -12,3 +12,9 @@ It also supports exporting study plans as PDF for better usability.
 BALANCIFY is a smart budgeting tool that analyzes user spending patterns using AI. 
 It provides insights, visualizations, and allows users to simulate different financial scenarios using “What-If” analysis. 
 The focus is on privacy and user-friendly financial planning.
+
+4. Pharmasense – AI-Based Healthcare Platform
+Pharmasense is a secure and user-friendly healthcare platform designed for doctor–patient interaction, appointment booking, and online consultations. 
+It integrates AI-based prescription analysis using OCR and NLP to extract and simplify medical information. 
+The system also uses machine learning (Random Forest algorithm) to predict treatment outcomes based on patient data. 
+Additionally, it provides visual insights and maintains centralized digital health records to track patient progress and treatment history.
