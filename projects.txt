@@ -1,0 +1,14 @@
+1. Non-Academic Credit Calculator
+This project is designed to calculate and manage credit points for students based on extracurricular activities, certifications, and achievements. 
+It provides a structured system to track and evaluate non-academic performance. 
+This project was recognized as an innovative idea and submitted for patent consideration.
+
+2. AI-Powered Study Planner
+This project helps students plan their study schedule efficiently by considering subject difficulty, available time, and exam deadlines. 
+It automatically generates an optimized timetable and tracks progress. 
+It also supports exporting study plans as PDF for better usability.
+
+3. BALANCIFY – AI-Powered Budgeting Assistant
+BALANCIFY is a smart budgeting tool that analyzes user spending patterns using AI. 
+It provides insights, visualizations, and allows users to simulate different financial scenarios using “What-If” analysis. 
+The focus is on privacy and user-friendly financial planning.
